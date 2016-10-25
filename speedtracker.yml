@@ -63,7 +63,7 @@ encryptionKey: "game2pipe"
 #                                                                             #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-wptUrl: "http://pronto.insnw.net/wpt.php"
+wptUrl: "http://pronto.insnw.net/"
 
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
