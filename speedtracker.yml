@@ -50,7 +50,7 @@ encryptionKey: "game2pipe"
 #                                                                             #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-#wptKey: "YOUR_ENCRYPTED_WEBPAGETEST_KEY"
+wptKey: "4100c3fea2e1dee056c9e1cfa5d96ce26101133d8169c3a34c1a56859c1cf21a81c1b0a590515352"
 
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
@@ -63,7 +63,7 @@ encryptionKey: "game2pipe"
 #                                                                             #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-wptUrl: "http://pronto.insnw.net/"
+wptUrl: "http://pronto.insnw.net/wpt.php"
 
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
